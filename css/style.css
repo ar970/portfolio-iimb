@@ -510,6 +510,7 @@ button {
 /* Highlighter that sweeps in when its card scrolls into view */
 .mark {
   background: linear-gradient(var(--marigold), var(--marigold)) no-repeat 0 90% / 100% 36%;
+  white-space: nowrap;
 }
 
 .js .reveal .mark {

@@ -11,7 +11,7 @@ Web Development mid-term project.
 |---------|---------------|
 | Hero | Name, rotating roles, intro, quick stats |
 | About | My story, quick facts, focus areas and toolbox (bento grid) |
-| Education | IIM Bangalore, IIT Jodhpur, IVB Chennai, DPS Vasant Kunj |
+| Education | IIM Bangalore and Mesa School of Business |
 | Experience | Vyaasa, Go Zero, Nutri Ladooz, the brands I built, leadership roles |
 | Projects | 12 filterable project cards, each with a details pop-up |
 | Journey | The longer story in three acts, with photos and voice notes |
