@@ -3,7 +3,7 @@
 My personal resume website, built with plain HTML and styled with CSS for the
 Web Development mid-term project.
 
-**Live site:** https://ar970.github.io/portfolio-iimb/
+**Live site:** https://portfolio-iimb-a133.vercel.app/
 
 ## What's on the page
 
